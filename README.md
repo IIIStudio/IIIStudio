@@ -1,5 +1,7 @@
 # 一个简单的项目
 
+访问：https://iiistudio.github.io/IIIStudio/
+
 ## 使用方式
 
 修改wen.json文件
