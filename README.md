@@ -17,6 +17,6 @@
 
 https://console.cloud.tencent.com/edgeone/pages
 
-![](./image/2.jpg)
+![](./image/2.png)
 
 ![](./image/1.jpg)
