@@ -12,6 +12,11 @@
 
 可以使用文件夹，归类标签为文件夹名。放在wen中。
 
-是把IIIPasswords修改来的。
+
+## EdgeOne Pages
+
+https://console.cloud.tencent.com/edgeone/pages
+
+![](./image/2.jpg)
 
 ![](./image/1.jpg)
