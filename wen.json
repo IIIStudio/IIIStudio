@@ -58,5 +58,10 @@
   {
     "biaoti": "CNBIssue",
     "wenzhang": "https://raw.githubusercontent.com/IIIStudio/CNBIssue/master/README.md"
+  },
+  {
+    "biaoti": "IIINavbar",
+    "wenzhang": "https://iiistudio.github.io/IIINavbar/README.md"
   }
+
 ]
