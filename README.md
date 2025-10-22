@@ -65,6 +65,10 @@ https://wordpress.com/forums/topic/hello-my-domain-name-is-not-working/?view=all
 
 我怀疑是https://iiistudio.github.io/IIINavbar/ 这个导致的Vercel：iii-navbar.vercel.app，跳转到iii.ohao.net
 
+结果我问别人，发现也有这样的问题，分析是可能是chatgpt-next-web！！
+
+这东西我搭建了2年多了，都没怎么用过，完全不懂是如何触发的，也没有说明，连通知都没有。
+
 2个域名有一个以前是备案过的，然后因为一些原因（工作吧）我没有搞博客，服务器也没续期，之后备案回访的时候我同意注销了，之后我觉得麻烦就没有去备案，就用海外的服务器，都是我个人使用的。
 
 还好我主要使用的域名邮箱还是在国内了，好吧就这样吧。
