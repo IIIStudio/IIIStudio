@@ -8,6 +8,8 @@
 
 为什么放在wordpress，当时域名在谷歌上面，续期9年之后，可以免费转入wordpress，所以我做了。
 
+[Google Domains托管域名免费转移到WordPress.com可续费1年！- 如有乐享](https://51.ruyo.net/18447.html)
+
 ![](./img/QQ文件%2020251022192807.jpg)
 
 10月1日的时候我还是搞些html让在上面，没想到这就是噩梦的开始。https://github.com/IIIStudio
